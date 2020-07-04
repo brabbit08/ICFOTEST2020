@@ -9,9 +9,9 @@ The following program is actually running on a **EC2 Linux instance of AWS** wic
 
 ## Results
 Please check the following URLs to see the results
-[Exercice 1](http://52.15.210.126/)
-[Exercice 2](http://52.15.210.126/python)
-[Exercice 3](http://52.15.210.126/days)
+[Exercice 1](http://icfotest.hopto.org/)
+[Exercice 2](http://icfotest.hopto.org/python)
+[Exercice 3](http://icfotest.hopto.org/days/)
 
 
 
