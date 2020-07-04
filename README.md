@@ -1,44 +1,21 @@
-# ICFOTEST2020
 
-
-Hi! this is the candidate Juan Calderon. The following that you will find here is a sample code on html and python wich one works to calculate the difference of days between two dates.
-This code is working on a Amazon Linux AMI machine wich one is already configurated with a LAMP Server, CGI was configurated also to run the script on python.
-
-Please check the next URL to see the results: 
-
-http://52.15.210.126/python
-http://52.15.210.126/days
-
-# README.MD
-Making attractive and usable readme's. 
-This is a short description about the content of my proyect. This text have to be simple and explicit.
+# TEST ICFO IT 
+Hi! this is the candidate Juan Calderon. The following that you will find here is the final result of the Exercise - IT Engineer
 
 ## Content
-This proyect has two branches: develop1 and develop2. **develop1** contains the tests of the repositories and **develop2** contains the test of the use cases.
+This proyect has two code files: date.py and index.html **date.py** contains the script to calculate the elapsed days between two dates **index.html** is a sample form to recive the desired date from the user.
 
-## Demo
-If you want to see the demo of this proyect deployed, you can visit [Demo of the proyect](https://anabelisa.co/tips-para-hacer-un-buen-readme-md/)
+The following program is actually running on a Linux instance of AWS wich one is already configurated with a LAMP Server and CGI 
 
-## How to clone
-If you have special requirements, you have to list it step by step.
-* This is the first step
-* Then you have to do this
-* Finally do this
+## Results
+If you want to see the results of this exercice, you can visit 
+[Exercice 1](http://52.15.210.126/)
+[Exercice 2](http://52.15.210.126/python)
+[Exercice 3](http://52.15.210.126/days)
 
-Markdown has enumation and nested lists.
 
-## Installation
-To install and run this proyect just type and execute
-```bash
-npm install
-```
-## Preview
-Insert here an image of the preview if your project has one. The image can be into the project, you have to indicate the route and look like this.
 
-![](/preview.jpg)
-
-### Notes
-If you want to learn all about markdown i recommend you visit the site [markdown.es](https://markdown.es/sintaxis-markdown/)
+Thanks for your time!
 
 
 
