@@ -11,9 +11,10 @@ date2 = datetime.strptime(date_user,'%Y-%m-%d')
 today = datetime.today()
 # Operation dif
 dif = today - date2
+#Print the results   
 print "Content-type:text/html\r\n\r\n"
-print "<html>"
-print "<body>"
-print "<h2>Since %s ,  %s days of difference </h2>" % (date_user, dif.days)
-print "</body>"
-print "</html>"
+  print "<html>"
+    print "<body>"
+      print "<h2>Since %s ,  %s days of difference </h2>" % (date_user, dif.days)
+    print "</body>"
+  print "</html>"
