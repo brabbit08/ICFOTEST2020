@@ -8,7 +8,7 @@ This proyect has two code files: date.py and index.html **date.py** contains the
 The following program is actually running on a **EC2 Linux instance of AWS** wich one is already configurated with a **LAMP Server and CGI ** 
 
 ## Results
-If you want to see the results of this exercice, you can visit 
+Please check the following URLs to see the results
 [Exercice 1](http://52.15.210.126/)
 [Exercice 2](http://52.15.210.126/python)
 [Exercice 3](http://52.15.210.126/days)
